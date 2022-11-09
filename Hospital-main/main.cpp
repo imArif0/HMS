@@ -60,7 +60,7 @@ int main()
         }
     }
 
-    else //patient website e eshe ja dekhbe
+    else if(user==2) //patient website e eshe ja dekhbe
     {
         while(1)
         {
